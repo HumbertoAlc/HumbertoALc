@@ -1,4 +1,5 @@
-# ![Imagen personal](./Biografy.png) [Humberto] - UX/UI & Product Designer
+# ![Imagen personal](./Biografy.png)
+[Humberto] - UX/UI & Product Designer
 
 Soy un UX/UI y Product Designer con amplia experiencia en liderar y gestionar proyectos de diseño digital E2E en entornos B2C y B2B. Mi enfoque abarca desde el diseño de plataformas web y aplicaciones móviles en iOS y Android, hasta sistemas operativos complejos, como motores de reserva, eCommerce y software de sistemas.
 
